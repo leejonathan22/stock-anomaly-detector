@@ -1,0 +1,28 @@
+# Stock data retrieval
+yfinance==0.2.54
+
+# Data manipulation and numerical computing
+pandas==2.2.3
+numpy==2.2.4
+
+# Machine learning — Isolation Forest
+scikit-learn==1.6.1
+
+# Anthropic Claude API client
+anthropic==0.49.0
+
+# Web framework for the REST API
+fastapi==0.115.12
+uvicorn[standard]==0.34.0
+
+# Streamlit front-end
+streamlit==1.44.1
+
+# Interactive charting
+plotly==6.0.1
+
+# Environment variable management
+python-dotenv==1.1.0
+
+# HTTP client used by ui.py to call the FastAPI backend
+requests==2.32.3
